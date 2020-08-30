@@ -6,4 +6,7 @@ The project has two versions: one written in C++ as a console application and on
 
 The accent of this project is on object-oriented design and intensive use of data structures and algorithms from standard Java and C++ libraries. 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sample:
+
 <img src="samples/sample_0.png">
